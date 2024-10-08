@@ -1,0 +1,4 @@
+*.d.ts
+.vercel
+.env
+node_modules
